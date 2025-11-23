@@ -16,8 +16,3 @@ Required on both client and server.
 
 - Fabric API: https://modrinth.com/mod/fabric-api
 - Installation on both sides, client and server.
-
-# Additional info:
-
-If you would like to look at the raw source code, it is found as an additional file in the versions. (messaging-mod-1.1+{version}-sources.jar)
-
